@@ -1,1 +1,2 @@
 #!/bin/bash
+eco "ALX School is cool!"
